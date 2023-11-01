@@ -1,0 +1,11 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+#Arquivos inputs e outputs
+csv/*
+json/*
+formatado/*
+sql/*
+data.json
